@@ -131,6 +131,7 @@ a#forkme_banner {
 }
 
 a#forkme_banner:hover {
+  border 2px white solid;
   background-position: 0 -138px;
 }
 
